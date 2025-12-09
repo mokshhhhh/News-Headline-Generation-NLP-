@@ -163,4 +163,4 @@ headline = generate_headline(article_text, model, tokenizer)
 print(headline)
 
 
-<p>This uses <b>beam search (num_beams = 4)</b> to generate higher-quality results.</p> <hr/> <h2>📤 <b>Output Demo</b></h2> <p>👉 This section will be updated soon with model-generated headlines, comparisons, and screenshots.</p> <hr/> <h2>📚 <b>Tech Stack</b></h2> <ul> <li><b>Python</b></li> <li><b>PyTorch</b></li> <li><b>HuggingFace Transformers</b></li> <li><b>Datasets Library</b></li> <li><b>Google Colab (GPU)</b></li> </ul> <hr/> <h2>🧑‍💻 <b>Author</b></h2> <p><b>Moksh Dhiman</b></p>
+<p>This uses <b>beam search (num_beams = 4)</b> to generate higher-quality results.</p>  <h2> <hr/> <h2> <b>Tech Stack</b></h2> <ul> <li><b>Python</b></li> <li><b>PyTorch</b></li> <li><b>HuggingFace Transformers</b></li> <li><b>Datasets Library</b></li> <li><b>Google Colab (GPU)</b></li> </ul> <hr/> <h2>🧑‍💻 <b>Author</b></h2> <p><b>Moksh Dhiman</b></p>
